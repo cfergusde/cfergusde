@@ -2,7 +2,7 @@
 
 👀 I’m interested in SWE, Cybersecurity, and ML/AI  
 
-🌱 I’m currently working on improving my Linux skills, Data Structure Utilization for problem-solving, and SWE topics in general  
+🌱 I’m currently working on improving my Linux skills, data structure utilization for problem-solving, and SWE topics in general  
 
 💞️ I’m looking to collaborate on any projects, so feel free to hit me up!
 
