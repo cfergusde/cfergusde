@@ -1,4 +1,4 @@
-👋 Hi, I’m Connor Fergus a Senior at Texas A&M  
+👋 Hi, I’m Connor Fergus a Senior at Texas A&M University
 
 👀 I’m interested in SWE, Cybersecurity, and ML/AI  
 
