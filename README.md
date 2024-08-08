@@ -2,7 +2,7 @@
 
 👀 I’m interested in SWE, Cybersecurity, and ML/AI  
 
-🌱 I’m currently working on improving my Linux skills, data structure utilization for problem-solving, and my Security+ Certification  
+🌱 I’m currently working on improving my Linux and scripting skills (Python, Bash, PowerShell) and earning my Security+ Certification.  
 
 💞️ I’m looking to collaborate on any projects, so feel free to hit me up!
 
