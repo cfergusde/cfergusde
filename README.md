@@ -1,6 +1,6 @@
-👋 Hi, I’m Connor Fergus a Senior at Texas A&M University
+👋 Hi, I’m Connor Fergus a graduate of Texas A&M University
 
-👀 I’m interested in SWE, Cybersecurity, and ML/AI  
+👀 I’m interested in Cybersecurity, SWE, and ML/AI  
 
 🌱 I’m currently working on improving my Linux and scripting skills (Python, Bash, PowerShell) and earning my Security+ Certification.  
 
