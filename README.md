@@ -1,4 +1,4 @@
-👋 Hi, I’m Connor Fergus a graduate of Texas A&M University
+👋 Hi, I’m Connor Fergus a graduate of Texas A&M University '25
 
 👀 I’m interested in Cybersecurity, SWE, and ML/AI  
 
