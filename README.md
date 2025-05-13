@@ -1,4 +1,4 @@
-👋 Hi, I’m Connor Fergus a graduate of Texas A&M University '25 (BS in Computer Science and a Minor in Cybersecurity)
+👋 I’m Connor Fergus, a graduate of Texas A&M University '25 (BS in Computer Science and a Minor in Cybersecurity)
 
 👀 I’m interested in Cybersecurity, SWE, and ML/AI  
 
