@@ -2,7 +2,7 @@
 
 👀 I’m interested in Cybersecurity, SWE, and ML/AI  
 
-🌱 I’m currently working on improving my Linux and scripting skills (Python, Bash, PowerShell) and earning my Security+ Certification.  
+🌱 I’m currently working on my scripting skills (Python, Bash, PowerShell), and I recently earned my CompTIA Security+ certification!
 
 💞️ I’m looking to collaborate on any projects, so feel free to hit me up!
 
